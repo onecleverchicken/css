@@ -1,0 +1,11 @@
+img{
+	border: 2px solid #933C03;
+	border-radius: 60px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+main p{
+	text-align: center;
+}

@@ -1,0 +1,41 @@
+div img{
+	border: 2px solid #933C03;
+	max-width: 100%;
+	max-height: 100%;
+	margin: 5px;	
+}
+
+img{
+	width: 300px;
+	height: 200px;	
+}
+
+div{
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.left{
+	text-align: center;
+	display: inline-block;
+	width: 40%;
+	box-sizing: border-box;
+	float: left;
+}
+
+div.right{
+	text-align: center;
+	display: inline-block;
+	width: 40%;
+	box-sizing: border-box;
+	float: right;
+}
+
+/* Problems when styling the center div. Harcoded the margin. */
+div.center{
+	text-align: center;
+	display: inline-block;
+	margin-left: 10%;
+	margin-right: 5%;
+}

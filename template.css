@@ -1,0 +1,59 @@
+html{
+	background-image: url("../images/mahogany.jpg");
+}
+
+body{
+	background-color: #E6CBA7;
+	padding: 20px;
+	margin: 20px;
+}
+
+header{
+	text-align: center;
+	background-color: #E6CBA7;
+	background-image: url("../images/mahogany.jpg");
+	padding: 20px;
+	background-size: cover;
+	clear: both;
+}
+
+nav>a {
+	color: #FFFFFF;
+    display: inline-block;
+    margin: 5px 5px;
+    border-radius: 6px;
+    text-decoration: none;
+    padding: 1% 5%;
+	background-color: rgba(255,255,255,.3);
+}
+
+h1{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+main p{
+	font-size: 18px;
+}
+
+div{
+	margin: 15px;	
+}
+
+a{
+	color: #A24408;
+	margin-left: 3px;
+	margin-right: 3px;
+	display:inline-block;
+}
+
+footer{
+	text-align: center;
+	font-size: 14px;
+	clear: both;
+}
+
+hr{
+	color: #933C03;
+	clear: both;
+}
